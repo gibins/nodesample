@@ -6,7 +6,7 @@ setup environment
   npm 6.4.1
   
   
-  npm install express -g
-  npm install express-generator -g
+  npm install express -g<br>
+  npm install express-generator -g <br>
   express --view=pug myApp
   
